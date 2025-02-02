@@ -40,6 +40,7 @@
 #include <unordered_set>
 #include <utility>
 #include <vector>
+#include <exception>
 
 #ifdef SPIRV_CROSS_NAMESPACE_OVERRIDE
 #define SPIRV_CROSS_NAMESPACE SPIRV_CROSS_NAMESPACE_OVERRIDE
